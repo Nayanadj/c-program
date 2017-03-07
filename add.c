@@ -7,6 +7,6 @@ scanf("%d",&a);
 printf("the value of b=");
 scanf("%d",&b);
 res=a+b;
-printf("result=",res);
+printf("result=%d",res);
 return 0;
 }
